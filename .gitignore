@@ -1,0 +1,7 @@
+.next/
+out/
+node_modules/
+.env*.local
+.next-dev-*.log
+.playwright-mcp/
+*.tsbuildinfo
